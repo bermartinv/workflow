@@ -1,0 +1,1 @@
+!function(){!function(n){console.info(n," da un saludo desde  casa por la noche")}(function(n){return n}("Larry"))}();

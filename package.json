@@ -1,0 +1,21 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[C\u001b[B\u001b[B\u001b[D\u001b[Dprueba de gulp\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001bhtml\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[B\u001b[C"
+  },
+  "author": "Bernardo Martin",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "browsersync": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
